@@ -31,9 +31,13 @@ Then input following text to textbox of working directory.
 
 Finished bellow configure, and an API document by HTML in `/solution_dir/project_dir/docs/html`. You can read the API document by opning index.html in a browser you like.
 
+## More Information
+
+See following website: [http://blog.quellencode.org/post/25010209463/monodevelop-api](http://blog.quellencode.org/post/25010209463/monodevelop-api)
+
 ## About Author
 
 Moza USANE  
-[http://blog.quellencode.org/](http://blog.quellencode.org/ "")  
+[http://blog.quellencode.org/](http://blog.quellencode.org/)  
 mozamimy@quellencode.org
 

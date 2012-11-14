@@ -31,6 +31,10 @@ generate_monodoc.rbは、MonoDevelop上でmonodocによるドキュメントを�
 
 上記の設定を終えてビルドすると、`/solution_dir/project_dir/docs/html`の中に、HTMLによるAPIドキュメントが生成されている。index.htmlをブラウザで開くと見ることができる。
 
+## もっと詳しく
+
+このウェブサイトに詳細な情報が載っている: [http://blog.quellencode.org/post/25010209463/monodevelop-api](http://blog.quellencode.org/post/25010209463/monodevelop-api)
+
 ## 作者について
 
 Moza USANE  
